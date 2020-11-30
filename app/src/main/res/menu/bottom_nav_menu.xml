@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bid"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title="@string/info_bid" />
+
+    <item
+        android:id="@+id/navigation_ask"
+        android:icon="@drawable/ic_baseline_remove_circle_24"
+        android:title="@string/info_ask" />
+
+    <item
+        android:id="@+id/navigation_details"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="@string/title_details" />
+
+</menu>

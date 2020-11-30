@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Koshelek</string>
+    <string name="title_bid">Bid</string>
+    <string name="title_ask">Ask</string>
+    <string name="title_details">Details</string>
+    <string name="info_bid">info:Bid</string>
+    <string name="info_ask">info:Ask</string>
+    <string name="bid_price">Bid Price</string>
+    <string name="diff">Diff</string>
+    <string name="ask_price">Ask price</string>
+    <string-array name="symbols_array">
+        <item>BTC/USDT</item>
+        <item>BNB/BTC</item>
+        <item>ETH/BTC</item>
+    </string-array>
+</resources>
